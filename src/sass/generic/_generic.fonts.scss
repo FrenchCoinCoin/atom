@@ -1,0 +1,10 @@
+/* ==========================================================================
+   #FONTS
+   ========================================================================== */
+
+/**
+ * Include custom fonts
+ */
+
+ @include font-face('Open Sans', '../fonts/OpenSans-Bold', bold, normal);
+ @include font-face('Open Sans', '../fonts/OpenSans', normal, normal);
